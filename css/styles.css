@@ -1,0 +1,112 @@
+div{
+
+  margin: 0;
+}
+h1{
+  margin-top: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625em;
+  color: #66bfbf;
+  line-height: 2;
+  /*100% fonr-size= 16px*/
+  /*1 em= 16px*/
+}
+h2{
+  color: #66bfbf;
+}
+.prog{
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+p{
+  font-family: 'Averia Serif Libre', cursive;
+}
+body{
+  text-align: center;
+  margin: 0;
+  font-family: Aclonica;
+}
+.top-container{
+  padding-top: 100px;
+  background-color: #e4f9f5;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+h3,a{
+  color: #11999e;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chilli-img{
+  width: 25%;
+  float: right;
+  margin: 30px;
+}
+hr{
+  border-color: #eaf6f6;
+  width: 5%;
+  border-style: dotted;
+  border-width: 10px;
+  border-top: none;
+  text-align: center;
+}
+.intro{
+  color: #40514e;
+  width: 30%;
+  margin: auto;
+}
+.copyright{
+  color: #eaf6f6;
+}
+.bottom-container{
+  background-color: #00bfff;
+  padding: 50px 0;
+}
+.btn{
+  background-color: #00bfff;
+  color: #eaf6f6;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 30px;
+
+}
+.contact-me{
+  margin: 30px auto;
+}
+.middle-container{
+  margin: 100px auto;
+}
+.btn:hover{
+  color: gold;
+}
+.contact-message{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+a{
+  color: red;
+  margin: 10px 20px;
+  text-decoration: none;
+}
